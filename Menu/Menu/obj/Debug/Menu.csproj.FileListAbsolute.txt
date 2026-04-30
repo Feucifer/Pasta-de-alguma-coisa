@@ -1,0 +1,8 @@
+C:\Users\felipe.gsouza3\source\repos\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\felipe.gsouza3\source\repos\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\felipe.gsouza3\source\repos\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\felipe.gsouza3\source\repos\Menu\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\felipe.gsouza3\source\repos\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\felipe.gsouza3\source\repos\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\felipe.gsouza3\source\repos\Menu\Menu\obj\Debug\Menu.pdb
+C:\Users\felipe.gsouza3\source\repos\Menu\Menu\obj\Debug\Menu.exe.config
